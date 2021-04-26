@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
+# <img src="https://github.com/Envoy-VC/awesome-windows-tools/blob/main/media/main-awesomeWindows.png">
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) 
 
